@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LinxuanZhang
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in data science and machine learning
 - 📫 You can reach me at linxuan.zhang@hotmail.com
 
 <!---
